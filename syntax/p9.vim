@@ -13,7 +13,7 @@ syn keyword quantifiers all exists
 syn keyword listTypes sos assumptions goals usable demodulators hints weights kbo_weights actions interpretations
 
 " free variables
-syn keyword freeVariables u w x y z
+syn keyword freeVariables u v w x y z
 
 " comments
 syn keyword todo contained TODO FIXME XXX NOTE
