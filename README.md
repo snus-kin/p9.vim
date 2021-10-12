@@ -6,7 +6,7 @@ small prover9 syntax and utility for vim
 
 ## Install
 install using a package manager for vim e.g. plugged
-in your init.vim:
+in your init.vim / vimrc:
 ```vim
 call plug#begin('~/.local/share/nvim/plugged')
     Plug 'snus-kin/p9.vim'
